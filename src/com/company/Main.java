@@ -22,7 +22,7 @@ public class Main {
             // QservExam Ekleme
             driver.findElement(By.xpath("//img[@class='sc-fHuLdG jbkWec']")).click();
             driver.findElement(By.xpath("//span[@class='MuiButton-startIcon MuiButton-iconSizeSmall']")).click();
-            driver.findElement(By.xpath("//p[@class='sc-dwfUOf sc-dkIXFM irUTVA gioTxt']")).click();
+            driver.findElement(By.xpath("//p[@class='sc-dwfUTVA gioTxt']")).click();
             driver.findElement(By.xpath("//img[@src='/page/90/assets/img/providers/QServExam.png']")).click();
 
         }
